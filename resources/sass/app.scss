@@ -1,0 +1,25 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.hospital-cover {
+    width: 600px;
+    height: 300px;
+}
+
+.notification-timestamp {
+    font-size: 13px;
+    font-style: italic;
+    margin-top: 12px;
+}
+
+.notification-content {
+    padding: 18px 22px 12px 10px;
+    border: 1px solid #b3d7ff;
+    border-radius: 6px;
+}

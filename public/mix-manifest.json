@@ -1,0 +1,13 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/_login.css": "/css/_login.css",
+    "/css/_mixins.css": "/css/_mixins.css",
+    "/css/_utilities.css": "/css/_utilities.css",
+    "/css/_variables.css": "/css/_variables.css",
+    "/css/sb-admin.css": "/css/sb-admin.css",
+    "/css/app.css": "/css/app.css",
+    "/js/sb-admin.js": "/js/sb-admin.js",
+    "/vendor/bootstrap/js/bootstrap.bundle.js": "/vendor/bootstrap/js/bootstrap.bundle.js",
+    "/vendor/jquery-easing/jquery.easing.js": "/vendor/jquery-easing/jquery.easing.js",
+    "/vendor/jquery/jquery.js": "/vendor/jquery/jquery.js"
+}
